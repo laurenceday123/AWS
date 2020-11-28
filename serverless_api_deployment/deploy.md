@@ -28,5 +28,5 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 
 # Step 2: Configure Elastic Beanstalk
 - Elastic beanstalk contains a plethora of options, including scalability, load balancing, capacity, security and more. Creating this was a very simple process
-![ElasticBeanstalkScale](https://imgur.com/ec6fe442-a581-457a-8614-c43aa8610333)
+![ElasticBeanstalkScale](https://i.imgur.com/wImq75E.png)
 ![ElasticBeanstalkOptions](https://i.imgur.com/z9003Ch.png)
