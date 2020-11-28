@@ -16,7 +16,7 @@ API for data loading and handling. Define Dataset and DataLoader instances.
 #### Estimator
 Amazon SageMaker has built in support for MXNet making training a simple task. 
 Example code for an MXNet estimator using data from an S3 bucket:
-'''python
+```python
 mxnet_estimator = MXNet('train.py',
                         instance_type='ml.p2.xlarge',
                         instance_count=1,
@@ -26,6 +26,6 @@ mxnet_estimator = MXNet('train.py',
                                          'epochs': 10,
                                          'learning-rate': 0.1})
 mxnet_estimator.fit('s3://my_bucket/my_training_data/')
-'''
+```
 #### Gluon Fit API
 Provides an easy training interface for Apache MXNet, enabling trianing in a minimum amount of code. Training loops do not need to be defined explicitly, you only need to specify the network architecture, loss function and training data
