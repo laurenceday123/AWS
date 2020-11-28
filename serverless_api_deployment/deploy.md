@@ -33,3 +33,6 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 
 ![ElasticBeanstalkOptions](https://i.imgur.com/z9003Ch.png)
 
+- Once successfully created, the URL of the Beanstalk App will take you to this page
+![AppCreated](https://i.imgur.com/N324hel.png)
+
