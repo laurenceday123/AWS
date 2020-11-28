@@ -40,3 +40,5 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 
 ## Step 3: Deploy the Machine Learning flask app into Beanstalk EC2
 - **AWS installs requirements automatically, via requirements.txt**
+- Create deployment file by passing the model, flask app and requirements file into a zip file (Create Archive -> zip)
+![CreateArchive](https://i.imgur.com/mmf8iy4.png)
