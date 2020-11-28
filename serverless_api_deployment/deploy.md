@@ -53,7 +53,11 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 
 ![PostmanTestAWS](https://i.imgur.com/2Aj7m6W.png)
 
-## Step 4: Beanstalk settings
+## Step 4: Managing deployments with Beanstalk
 ![BeanstalkSettings](https://i.imgur.com/lTTgpV5.png)
 
 In the above image, we can see the model versions we have deployed. You can download the source contents, delete old verions, and rapidly redeploy previous versions. This clear version controlling appears to be a good, simple and clear way to manage model versioning.
+
+![logs](https://i.imgur.com/XGqm7DN.png)
+
+Logs can be accessed in environments, as well as health status and other monitoring that is in place
