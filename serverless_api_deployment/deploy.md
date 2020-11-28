@@ -42,3 +42,9 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 - **AWS installs requirements automatically, via requirements.txt**
 - Create deployment file by passing the model, flask app and requirements file into a zip file (Create Archive -> zip)
 ![CreateArchive](https://i.imgur.com/mmf8iy4.png)
+
+- Then, upload and deploy into Elastic Beanstalk 
+!['DeployModel'](https://i.imgur.com/G1of1jf.png)
+
+- Return to postman and test with the EC2 instance URL 
+![PostmanTestAWS](https://i.imgur.com/2Aj7m6W.png)
