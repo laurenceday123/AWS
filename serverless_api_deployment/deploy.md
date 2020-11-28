@@ -14,3 +14,4 @@ Elastic Beanstalk handles:
 - Load Balancing
 - Auto scaling
 - App Health Monitoring
+Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically based upon app specific needs
