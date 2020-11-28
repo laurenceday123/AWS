@@ -3,7 +3,7 @@
 - Deploy the machine learning application into AWS virtual servers.
 ## Tools
 ### Flask
-Python web microframework providing minimal structure to form a system from available components. You only use what you need
+Python web microframework providing minimal structure to form a system from available components. You only use what you need. In this case, we are creating a basic API which enables the client to interact with a Machine Learning model to detect spam. 
 ### AWS
 #### EC2 
 Elastic Compute Cloud EC2 is secure, resizable cloud compute servers for running applications on AWS infrastructure
