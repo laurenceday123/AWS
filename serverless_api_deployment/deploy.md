@@ -58,6 +58,6 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 
 In the above image, we can see the model versions we have deployed. You can download the source contents, delete old verions, and rapidly redeploy previous versions. This clear version controlling appears to be a good, simple and clear way to manage model versioning.
 
-![logs](https://i.imgur.com/XGqm7DN.png)
+![monitoring](https://i.imgur.com/gLerLZk.png)
 
-Logs can be accessed in environments, as well as health status and other monitoring that is in place
+Monitoring and Logs can be accessed in environments, as well as health status and other options.
