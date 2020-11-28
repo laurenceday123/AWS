@@ -19,5 +19,14 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 
 # Step 1: Create and test Flask API with trained model
 - A basic spam detection model is created, using a TFIDF vectorizer and logistic regression on the document vectors. 
+
 ![Flask App](https://i.imgur.com/9Ds3Uu5.png)
+
+- Postman is used to query the API with input data by making a GET request to the API
+
 ![Postman](https://i.imgur.com/sWEqqOS.png)
+
+# Step 2: Configure Elastic Beanstalk
+- Elastic beanstalk contains a plethora of options, including scalability, load balancing, capacity, security and more. Creating this was a very simple process
+![ElasticBeanstalkScale](https://imgur.com/ec6fe442-a581-457a-8614-c43aa8610333)
+![ElasticBeanstalkOptions](https://i.imgur.com/z9003Ch.png)
