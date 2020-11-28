@@ -38,3 +38,5 @@ Elastic Beanstalk is 'Impossible to outgrow', scaling up and down automatically 
 - Once successfully created, the URL of the Beanstalk App will take you to this page
 ![AppCreated](https://i.imgur.com/N324hel.png)
 
+## Step 3: Deploy the Machine Learning flask app into Beanstalk EC2
+- **AWS installs requirements automatically, via requirements.txt**
