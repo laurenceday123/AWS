@@ -17,6 +17,7 @@ API for data loading and handling. Define Dataset and DataLoader instances.
 Amazon SageMaker has built in support for MXNet making training a simple task. 
 Example code for an MXNet estimator using data from an S3 bucket:
 ```python
+# In Amazon SageMaker
 mxnet_estimator = MXNet('train.py',
                         instance_type='ml.p2.xlarge',
                         instance_count=1,
